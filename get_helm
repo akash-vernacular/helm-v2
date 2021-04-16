@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+#
 # Copyright The Helm Authors.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -13,10 +13,10 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-
+#
 # The install script is based off of the MIT-licensed script from glide,
 # the package manager for Go: https://github.com/Masterminds/glide.sh/blob/master/get
-
+#
 PROJECT_NAME="helm"
 TILLER_NAME="tiller"
 
